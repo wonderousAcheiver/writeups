@@ -4,7 +4,7 @@
 
 - given to us is a single python file that does the following:
 
-![interface](/images/lucky_dice_1.png)
+![interface](/lucky_dice/images/lucky_dice_1.png)
 
 ```text
 NOTE: These points are written AFTER I completed the challenge.
