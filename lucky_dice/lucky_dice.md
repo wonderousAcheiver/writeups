@@ -60,4 +60,4 @@ It just went away!
 
 Eventually I got the flag :)
 
-![flag.txt](/images/final_flag.png)
+![flag.txt](/lucky_dice/images/final_flag.png)
